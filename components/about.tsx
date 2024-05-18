@@ -18,7 +18,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After graduating with a Master's degree in both{" "}
+        After graduating with a Master&apos;s degree in both{" "}
         <span className="font-medium">
           Applied Mathematics and Data Science
         </span>
@@ -27,7 +27,7 @@ export default function About() {
         <span className="font-medium">full-stack web development</span>.{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span className="underline">love</span> the
-        feeling of finally figuring out a solution to a problem and revealing
+        feeling of finally figuring out a solution to a problem or revealing
         hidden information within the data at hand. My core stack is{" "}
         <span className="font-medium">
           python, SQL, PowerBI, React, Next.js, Node.js, and MongoDB
@@ -37,8 +37,8 @@ export default function About() {
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        football, tennis, and editing videos. I also enjoy{" "}
+        <span className="italic">When I&apos;m not coding</span>, I enjoy
+        playing football, tennis, and editing videos. I also enjoy{" "}
         <span className="font-medium">
           creating social media content and analyse trends in the digital world
           and real world
@@ -47,7 +47,7 @@ export default function About() {
         <span className="font-medium">
           ancient history and theoratical physics
         </span>
-        . I'm also learning how to speak spanish.
+        . I&apos;m also learning how to speak spanish.
       </p>
     </motion.section>
   );
