@@ -25,6 +25,9 @@ export default function Contact() {
       transition={{
         duration: 1,
       }}
+      viewport={{
+        once: true,
+      }}
     >
       <SectionHeading>Contact me</SectionHeading>
       <p className="text-gray-700 -mt-6 dark:text-white/80">
@@ -32,7 +35,7 @@ export default function Contact() {
         <a className="underline" href="mailto:mossaab.khayrany@gmail.com">
           mossaab.khayrany@gmail.com
         </a>
-        , or via this form:
+        {""}, or via this form:
       </p>
 
       <form

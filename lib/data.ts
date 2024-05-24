@@ -54,7 +54,7 @@ export const experiencesData = [
     title: "Data Analyst",
     location: "Paris, FR",
     description:
-      "I'm now a Data Analyst with full-stack expertises, working as a freelancer. My stack includes Python, SQL, PowerBI, React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "I'm now a Data Analyst with full-stack expertises, working as a freelancer. My stack includes Python, SQL, PowerBI, React, Next.js, TypeScript, Tailwind, MongoDB. I'm open to full-time opportunities.",
     icon: React.createElement(CgWorkAlt),
     date: "2023 - present",
   },
@@ -62,10 +62,10 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Data Enrichement",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "I worked as a Data Analyst with data engineering tasks. Raw data was extracted and enriched automatically to be later fed to PowerBI dashboards.",
+    tags: ["python", "classification", "ETL", "pipelines", "sql", "Power-BI"],
     imageUrl: corpcommentImg,
   },
   {

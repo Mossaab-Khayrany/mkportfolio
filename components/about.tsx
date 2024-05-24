@@ -1,4 +1,5 @@
 "use client";
+
 import React from "react";
 import SectionHeading from "@/components/section-heading";
 import { motion } from "framer-motion";
@@ -30,24 +31,22 @@ export default function About() {
         feeling of finally figuring out a solution to a problem or revealing
         hidden information within the data at hand. My core stack is{" "}
         <span className="font-medium">
-          python, SQL, PowerBI, React, Next.js, Node.js, and MongoDB
+          python, SQL, PowerBI, React, Next.js, Node.js, and MongoDB.
         </span>
-        . I am also familiar and worked with cloud computing services such as
+        I am also familiar and worked with cloud computing services such as
         Azure & AWS. I am always eager to learn new technologies.
       </p>
-
       <p>
         <span className="italic">When I&apos;m not coding</span>, I enjoy
-        playing football, tennis, and editing videos. I also enjoy{" "}
+        playing football, tennis, and editing videos. I also like{" "}
         <span className="font-medium">
-          creating social media content and analyse trends in the digital world
-          and real world
+          creating social media content and analyse trends in both digital &
+          real world.{" "}
         </span>
-        . I am currently learning about{" "}
+        I am currently learning about{" "}
         <span className="font-medium">
-          ancient history and theoratical physics
+          ancient history and theoratical physics.
         </span>
-        . I&apos;m also learning how to speak spanish.
       </p>
     </motion.section>
   );
